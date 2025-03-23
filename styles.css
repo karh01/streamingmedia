@@ -219,9 +219,6 @@ input:checked ~ label span:after {
    background: #020659;
 }
 
-#trendingsongs {
-  margin-left: -25px;
-}
 
 #trendingsongs h3 {
   color: #590242;
